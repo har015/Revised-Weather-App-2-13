@@ -11,4 +11,4 @@ Depoloy:https://har015.github.io/weather-app/
 
 Preview:
 
-![image](https://user-images.githubusercontent.com/111612523/218607115-ebe23e48-4e4b-4b78-af78-3978a2f72802.png)
+![image](https://user-images.githubusercontent.com/111612523/219982404-be394513-3bec-4215-a6e5-52da5eb9813c.png)
